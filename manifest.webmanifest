@@ -34,5 +34,28 @@
       "purpose": "maskable"
     }
   ],
+  "screenshots": [
+    {
+      "src": "screenshots/home.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Ana Sayfa"
+    },
+    {
+      "src": "screenshots/program.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Antrenman Programı"
+    },
+    {
+      "src": "screenshots/report.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Rapor"
+    }
+  ],
   "id": "NyxFit"
 }
