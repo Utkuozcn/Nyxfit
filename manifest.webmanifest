@@ -36,25 +36,25 @@
   ],
   "screenshots": [
     {
-      "src": "screenshots/home.png",
-      "sizes": "1080x1920",
+      "src": "mainpage.png",
+      "sizes": "418x876",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Ana Sayfa"
     },
     {
-      "src": "screenshots/program.png",
-      "sizes": "1080x1920",
+      "src": "body.png",
+      "sizes": "424x872",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Antrenman Programı"
+      "label": "Vücut Tipi"
     },
     {
-      "src": "screenshots/report.png",
-      "sizes": "1080x1920",
+      "src": "purpose.png",
+      "sizes": "425x861",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Rapor"
+      "label": "Hedef"
     }
   ],
   "id": "NyxFit"
