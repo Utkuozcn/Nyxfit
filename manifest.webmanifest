@@ -36,21 +36,21 @@
   ],
   "screenshots": [
     {
-      "src": "mainpage.png",
+      "src": "images/mainpage.png",
       "sizes": "418x876",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Ana Sayfa"
     },
     {
-      "src": "body.png",
+      "src": "images/body.png",
       "sizes": "424x872",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Vücut Tipi"
     },
     {
-      "src": "purpose.png",
+      "src": "images/purpose.png",
       "sizes": "425x861",
       "type": "image/png",
       "form_factor": "narrow",
